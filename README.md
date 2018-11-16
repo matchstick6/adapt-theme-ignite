@@ -1,6 +1,6 @@
-# adapt-contrib-vanilla  
+# adapt-theme-ignite  
 
-**Vanilla** is a *theme* bundled with the [Adapt framework](https://github.com/adaptlearning/adapt_framework).  
+**Ignite** is a *theme* based on vanilla theme bundled with the [Adapt framework](https://github.com/adaptlearning/adapt_framework).  
 
 <img src="https://github.com/adaptlearning/documentation/blob/master/04_wiki_assets/plug-ins/images/vanilla01.jpg" alt="sample colors from the vanilla theme">  
 
